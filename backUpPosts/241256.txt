@@ -1,0 +1,16 @@
+[tab:Openload]
+<iframe src="https://openload.co/embed/j-sJ3APHziw/atypical.s01e03.720p.webrip.x264-strife.mkv.mp4" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+[tab:TheVid]
+Atypical S01E03 480p x264-mSD<br/> <iframe src="https://thevideo.me/embed-mtsxtll47wje.html" width="640" height="360" style="width:640px; height:360px;" frameborder="0" allowfullscreen></iframe>
+[tab:TheVid]
+<iframe src="https://thevideo.me/embed-1w6t06q465je.html" width="640" height="360" style="width:640px; height:360px;" frameborder="0" allowfullscreen></iframe>
+[tab:TheVid]
+<iframe src="https://thevideo.me/embed-8ibov3zhy4mg.html" width="640" height="360" style="width:640px; height:360px;" frameborder="0" allowfullscreen></iframe>
+[tab:Vidup]
+<iframe width="640" height="360" src="http://vidup.me/embed-jwwf3sut878b.html" frameborder="0" allowfullscreen></iframe>
+[tab:Vidup]
+<iframe width="640" height="360" src="http://vidup.me/embed-ecws24kah50i.html" frameborder="0" allowfullscreen></iframe>
+[tab:Vshare]
+<iframe src="http://vshare.eu/embed-uewv26r0oj0t-520x360.html" frameborder=0 marginwidth=0 marginheight=0 scrolling=no width=520 height=360></iframe>
+[tab:Openload]
+<iframe src="https://openload.co/embed/fPCkeXzufaw/" scrolling="no" frameborder="0" width="520" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>

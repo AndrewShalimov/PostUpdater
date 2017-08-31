@@ -1,0 +1,4 @@
+https://api.openload.co/1/account/info?login=f69dadb96479d45a&key=dQ4vhRKm
+https://api.openload.co/1/file/listfolder?login=f69dadb96479d45a&key=dQ4vhRKm&folder=90210
+
+https://openload.co/file/listfolder?folder=90210&login=f69dadb96479d45a&key=dQ4vhRKm
