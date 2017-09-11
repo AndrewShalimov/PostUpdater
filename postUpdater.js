@@ -56,32 +56,14 @@ function processPostsUpdate(postsDataFromSheet) {
         http.get(
             requestData,
             function (error, response, body) {
-                //if (!error && response.statusCode == 200) {
-                    putContent(this.uri.href, body);
-                //}
+                putContent(this.uri.href, body);
+
             }
         );
     }
-
-
-
-    //async.eachSeries(links, function iteratee(item, putContent) {
-    //    //if (inCache(item)) {
-    //    //    async.setImmediate(function() {
-    //    //        callback(null, cache[item]);
-    //    //    });
-    //    //} else {
-    //    //    doSomeIO(item, callback);
-    //    //    //...
-    //    //}
-    //
-    //});
 }
 
 function putContent(key, content) {
-    //console.log("key:" + JSON.stringify(key));
-    //console.log("key:" + key);
-    //console.log("content:" + content);
     var contentItem = postsData.filter(function ( obj ) {
         return obj.link === key;
     })[0];
@@ -95,7 +77,7 @@ function putContent(key, content) {
             break;
         }
     }
-    //console.log(JSON.parse(postTabs).post_ID + "; " + key);
+
     var contentItemIndex = postsData.indexOf(contentItem);
     var embedLink = "";
     if (tabMode == "openload") {

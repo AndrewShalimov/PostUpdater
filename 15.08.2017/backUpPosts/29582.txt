@@ -1,5 +1,0 @@
-[tab:TheVid]
-<iframe width="640" height="360" src="http://thevideo.me/embed-q1g0l4smfdo5.html" frameborder="0" allowfullscreen></iframe>[tab:TheVid]
-<iframe width="640" height="360" src="http://thevideo.me/embed-p7bm89dpwq95.html" frameborder="0" allowfullscreen></iframe>
-[tab:TheVid]
-<iframe width="640" height="360" src="http://thevideo.me/embed-oghktlsn00c6.html" frameborder="0" allowfullscreen></iframe>

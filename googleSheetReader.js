@@ -165,7 +165,6 @@ function storeToken(token) {
  * https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
  */
 function listFiles(auth, callback, sheetId, sheetName, range) {
-    //logger.info(JSON.stringify(auth, null, 4));
     logger.info("Start reading '" + sheetName  + "' spreadsheet.")
     var sheets = google.sheets('v4');
     sheets.spreadsheets.values.get({
@@ -186,11 +185,6 @@ function listFiles(auth, callback, sheetId, sheetName, range) {
         } else {
             logger.info("'" + sheetName  + "' spreadsheet been read OK.")
             callback(rows);
-            //for (var i = 0; i < rows.length; i++) {
-            //    var row = rows[i];
-            //    // Print columns A and E, which correspond to indices 0 and 4.
-            //    logger.log('%s', row[0]);
-            //}
         }
     });
 }

@@ -1,8 +1,0 @@
-[tab:TheVid]
-<iframe width="640" height="360" src="http://thevideo.me/embed-xwlwlbzsnv2q.html" frameborder="0" allowfullscreen></iframe>
-[tab:Vidup]
-<iframe width="640" height="360" src="http://vidup.me/embed-l9c8tewkle6w.html" frameborder="0" allowfullscreen></iframe>
-[tab:TheVid]
-<iframe width="640" height="360" src="http://thevideo.me/embed-olr8esxgxvdg.html" frameborder="0" allowfullscreen></iframe>
-[tab:YouWatch]
-<IFRAME SRC="http://youwatch.org/embed-utw2ee61eu69-520x350.html" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO width="520" height="350"></IFRAME>

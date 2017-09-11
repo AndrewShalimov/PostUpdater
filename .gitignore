@@ -1,4 +1,7 @@
 *.log
+/*.log
+*.json
+/*.json
 logs
 out
 images/products

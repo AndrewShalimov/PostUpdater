@@ -1,4 +1,0 @@
-[tab:Openload]
-<iframe src="https://openload.co/embed/jny-7djhXfA/Hell_on_Wheels_S02E01_%281080p_Bluray_x265_HEVC_10bit_AAC_5.1_RCVR%29_%5BUTR%5D.mkv.mp4" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-[tab:TheVid]
-Hell on Wheels S02E01 (1080p Bluray x265 HEVC 10bit AAC 5 1 RCVR) [UTR]<br/> <iframe src="https://thevideo.me/embed-6k76jm13x0y6.html" width="640" height="360" style="width:640px; height:360px;" frameborder="0" allowfullscreen></iframe>
